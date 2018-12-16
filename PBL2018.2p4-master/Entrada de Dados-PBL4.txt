@@ -1,0 +1,91 @@
+Maiores cidades da Bahia
+Salvador | 10;-50
+Feira de Santana | 0;0
+Vitória da Conquista | -200;-500
+Camaçari | 20;-40
+Itabuna | -20:-60	
+Juazeiro | -20;80
+Ilhéus | -10;-100
+Lauro de Freitas | 15;-45
+Jequié | -30;-70
+Teixeira de Freitas | -50;-200
+Alagoinhas | 10;5
+Barreiras | -150;10
+Porto Seguro | -10;-150
+Simões Filho | 10;-20
+Paulo Afonso | 30;100
+Eunápolis | 0;-140
+Santo Antônio de Jesus | -10;-40
+Valença | -5;-55
+Candeias | 5;-40
+Guanambi | -100;-100
+Jacobina | -50;60
+Serrinha | -5;20
+Senhor do Bonfim | 80;-20
+Dias d'Ávila | 25;-35
+Itapetinga | -30;-110
+Luís Eduardo Magalhães | -170;10
+Irecê | -100;50
+Campo Formoso | 80;-50
+Casa Nova | 100;150
+Brumado | -80;-105
+Distância entre cidades
+Feira de Santana | Simões Filho | 90
+Feira de Santana | Camaçari | 95
+Feira de Santana | Alagoinhas | 80
+Feira de Santana | Candeias | 70
+Feira de Santana | Serrinha | 70
+Feira de Santana | Jequié | 250
+Feira de Santana | Santo Antônio de Jesus | 115
+Feira de Santana | Barreiras | 755
+Feira de Santana | Senhor do Bonfim | 265
+Feira de Santana | Brumado | 420
+Feira de Santana | Jacobina | 225
+Feira de Santana | Irecê | 365
+Senhor do Bonfim | Juazeiro | 125
+Senhor do Bonfim | Campo Formoso | 25
+Santo Antônio de Jesus | Ilhéus | 265
+Santo Antônio de Jesus | Alagoinhas | 155
+Santo Antônio de Jesus | Valença | 75
+Alagoinhas | Paulo Afonso | 350
+Juazeiro | Casa Nova | 70
+Juazeiro | Paulo Afonso | 365
+Barreiras | Luís Eduardo Magalhães | 90
+Serrinha | Paulo Afonso | 310
+Simões Filho | Salvador | 30
+Simões Filho | Camaçari | 25
+Simões Filho | Lauro de Freitas | 25
+Simões Filho | Alagoinhas | 90
+Candeias | Alagoinhas | 80
+Candeias | Camaçari | 30
+Candeias | Simões Filho | 24
+Camaçari | Dias d'Ávila | 15
+Salvador | Valença | 125
+Salvador | Lauro de Freitas | 30
+Lauro de Freitas | Camaçari | 38
+Jequié | Itapetinga | 220
+Jequié | Vitória da Conquista | 155
+Jequié | Senhor do Bonfim | 485
+Vitória da Conquista | Brumado | 140
+Vitória da Conquista | Itapetinga | 100
+Eunápolis | Teixeira de Freitas | 160
+Eunápolis | Itabuna | 215
+Eunápolis | Porto Seguro | 60
+Eunápolis | Itapetinga | 200
+Valença | Ilhéus | 175
+Valença | Itabuna | 195
+Itabuna | Santo Antônio de Jesus | 245
+Itabuna | Ilhéus | 30
+Itapetinga | Itabuna | 140
+Brumado | Guanambi | 140
+Brumado | Barreiras | 550
+Barreiras | Guanambi |450
+Casa Nova | Barreiras | 735
+Guanambi | Jacobina | 600
+Guanambi | Irecê | 440
+Irecê | Jacobina | 195
+Jacobina | Senhor do Bonfim | 110
+Jacobina | Paulo Afonso | 470
+Senhor do Bonfim | Paulo Afonso | 400
+Paulo Afonso | Juazeiro | 370
+
